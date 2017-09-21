@@ -1,0 +1,20 @@
+PODS:
+  - GoogleMobileAds (7.8.0)
+  - MBProgressHUD (1.0.0)
+  - OpenCV (3.2.0):
+    - OpenCV/Dynamic (= 3.2.0)
+  - OpenCV/Dynamic (3.2.0)
+
+DEPENDENCIES:
+  - GoogleMobileAds
+  - MBProgressHUD
+  - OpenCV
+
+SPEC CHECKSUMS:
+  GoogleMobileAds: c79931d6eef16b1e4c35d331cf23c47e0dd490d2
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  OpenCV: 0f7ab403d1e81769bc6f4f524c3c6928ecb1fdb8
+
+PODFILE CHECKSUM: 7e2ccccb37b85096cb32f8aec66b92d8b4f85d3d
+
+COCOAPODS: 1.2.1
